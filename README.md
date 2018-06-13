@@ -45,21 +45,23 @@ v
   
  # Description
  <ol>
- <li> <b>LSA08</b>-LSA08 (Advance Line Following Sensor Bar) consist of 8 sensors pair. LSA08 is typically used for embedded system or robots for line following task. The specially selected wavelength of super bright green LED as the sensor’s transmitter enables LSA08 to operate on various different colour surfaces. LSA08 is capable to operate on surface with colour of Red, Green, Blue, White, Black, Gray and possibly other colours with distinct brightness different. LSA08 has several different output modes, for the convenience of use for any system. Namely, the digital output port (8 parallel output line), the serial communication port (UART) and the analog output port.
-   <h6>Features</h6>
-   <ul>
-<li>8 sensor pairs spaced 16mm.
-<li>12V input power
-<li>On board Mode and Select button for instant configuration of LSA08
-<li>3 Different output mode (digital output port, UART output port, analog output port)
-<li>LCD display unit showing 8 sensors analog value with bar chart and line position.
-<li>Simple Auto-Calibration function to the line following surface. 
-<li>Junction Pulse (JPULSE) for detecting junction crossing and junction counting
-<li>Power polarity protection
-<li>Low current consumption (typically 26mA)
-<li>Works on glossy or reflective surface
-<li>Refresh rate up to 200Hz.
-  </ul></li>
+<li> <b>LSA08</b>-LSA08 (Advance Line Following Sensor Bar) consist of 8 sensors pair. LSA08 is typically used for embedded system or robots for line following task. The specially selected wavelength of super bright green LED as the sensor’s transmitter enables LSA08 to operate on various different colour surfaces. LSA08 is capable to operate on surface with colour of Red, Green, Blue, White, Black, Gray and possibly other colours with distinct brightness different. LSA08 has several different output modes, for the convenience of use for any system. Namely, the digital output port (8 parallel output line), the serial communication port (UART) and the analog output port.
+
+        <h6>Features</h6>
+              <ul>
+           <li>8 sensor pairs spaced 16mm.
+           <li>12V input power
+           <li>On board Mode and Select button for instant configuration of LSA08
+           <li>3 Different output mode (digital output port, UART output port, analog output port)
+           <li>LCD display unit showing 8 sensors analog value with bar chart and line position.
+           <li>Simple Auto-Calibration function to the line following surface. 
+           <li>Junction Pulse (JPULSE) for detecting junction crossing and junction counting
+           <li>Power polarity protection
+           <li>Low current consumption (typically 26mA)
+           <li>Works on glossy or reflective surface
+           <li>Refresh rate up to 200Hz.
+             </ul>
+        </li>
  
  <li>The overall processes of line-following are: detect position of the line, adjust motor speed to align the line at the center, and repeat.
  <li>We have used PID mechanism and weighted sum to process the readings provided by the sensor.
