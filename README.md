@@ -59,14 +59,19 @@ v
 <li>Low current consumption (typically 26mA)
 <li>Works on glossy or reflective surface
 <li>Refresh rate up to 200Hz.
-   </ul>
+  </ul></li>
+ 
+ <li>The overall processes of line-following are: detect position of the line, adjust motor speed to align the line at the center, and repeat.
+ <li>We have used PID mechanism and weighted sum to process the readings provided by the sensor.
 
      </ol>
      
  
  # Useful Links
+ To better understand the working of LSA08 refer the links below:
  <ul>
  <li>https://tutorial.cytron.io/2015/07/31/line-following-robot-using-lsa08-in-digital-mode/
+  <li>https://www.youtube.com/watch?v=qiH-9bH5wMg
    </ul>
 
 
