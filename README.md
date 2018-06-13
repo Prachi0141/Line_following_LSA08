@@ -6,16 +6,16 @@ The idea is to make a bot that moves by following a black line on white surface 
 # Team Members
 <ul>
 <li ><a href="https://www.facebook.com/prrachiagarwal2230473">Prachi Agarwal</a></li>
-<li><a href="https://www.facebook.com/prrachiagarwal2230473">Riya Bhalla</a></li>
+<li><a href="https://www.facebook.com/riya.bhalla.587">Riya Bhalla</a></li>
 </ul>
 
 # Mentors
 <ul>
-<li><a href="https://www.facebook.com/kumar.nikhil1198">Nitin Yadav</a></li>
-<li><a href="https://www.facebook.com/kumar.nikhil1198">Shubanshu</a></li>
-<li><a href="https://www.facebook.com/profile.php?id=100009857642161">Shashwat Maheshwari</a></li>
+<li><a href="">Nitin Yadav</a></li>
+<li><a href="https://www.facebook.com/shubhanshu.agarwal.750">Shubhanshu Agarwal</a></li>
+<li><a href="https://www.facebook.com/shashwat.agrawal.58">Shashwat Maheshwari</a></li>
 </ul>
-v
+
 # Pre-Requisites
  
  <b>Hardware:</b>
